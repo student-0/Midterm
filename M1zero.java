@@ -1,5 +1,7 @@
 //// Midterm code for 59CST112
 
+//BAM:  Added this comment.
+
 /**************************************************************
 BE SURE TO CHANGE THE NEXT SEVERAL LINES, USING YOUR REAL NAME.
 
